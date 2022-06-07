@@ -1,3 +1,4 @@
 baseURL = 'http://evantian.com/'
 languageCode = 'en-us'
 title = 'Evan blog'
+theme = "hugo-theme-console"
